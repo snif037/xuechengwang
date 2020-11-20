@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7177081f-4ae5-4f1c-9d25-215e092a1b36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xc-framework-model" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Project\Develop\maven\repository" />
+        <option name="mavenHome" value="D:/Develop_tool/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Develop_tool\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kMpcnOFvgME1KAfrEyRNpJ5blU" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowBuild.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xc-service-manage-cms/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\teach\xcEdu\xcEduService01\xc-service-manage-cms\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManageCmsApplication">
+    <configuration name="CmsPageRepositoryTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.dao.CmsPageRepositoryTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsPageRepositoryTest.testFindByPageName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.dao.CmsPageRepositoryTest" />
+      <option name="METHOD_NAME" value="testFindByPageName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsPageRepositoryTest.testFindPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.dao.CmsPageRepositoryTest" />
+      <option name="METHOD_NAME" value="testFindPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsPageRepositoryTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.dao.CmsPageRepositoryTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms.ManageCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ManageCmsApplication" />
+        <item itemvalue="JUnit.CmsPageRepositoryTest.testFindAll" />
+        <item itemvalue="JUnit.CmsPageRepositoryTest.testFindPage" />
+        <item itemvalue="JUnit.CmsPageRepositoryTest.testFindByPageName" />
+        <item itemvalue="JUnit.CmsPageRepositoryTest.testUpdate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7177081f-4ae5-4f1c-9d25-215e092a1b36" name="Default Changelist" comment="" />
+      <created>1605520396092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605520396092</updated>
+      <workItem from="1605520397385" duration="15195000" />
+      <workItem from="1605699654524" duration="615000" />
+      <workItem from="1605700290513" duration="7295000" />
+      <workItem from="1605791301907" duration="4421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="830" y="265" key="#com.intellij.ide.util.MemberChooser" timestamp="1605527047898">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="265" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1605527047898" />
+    <state x="805" y="439" key="FileChooserDialogImpl" timestamp="1605524996527">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="439" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1605524996527" />
+    <state width="2005" height="270" key="GridCell.Tab.0.bottom" timestamp="1605791523615">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="270" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605791523615" />
+    <state width="2005" height="270" key="GridCell.Tab.0.center" timestamp="1605791523615">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="270" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605791523615" />
+    <state width="2005" height="270" key="GridCell.Tab.0.left" timestamp="1605791523614">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="270" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605791523614" />
+    <state width="2005" height="270" key="GridCell.Tab.0.right" timestamp="1605791523615">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="270" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605791523615" />
+    <state width="2005" height="270" key="GridCell.Tab.1.bottom" timestamp="1605791523615">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="270" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605791523615" />
+    <state width="2005" height="270" key="GridCell.Tab.1.center" timestamp="1605791523615">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="270" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605791523615" />
+    <state width="2005" height="270" key="GridCell.Tab.1.left" timestamp="1605791523615">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="270" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605791523615" />
+    <state width="2005" height="270" key="GridCell.Tab.1.right" timestamp="1605791523615">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="270" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605791523615" />
+    <state width="1166" height="300" key="GridCell.Tab.2.bottom" timestamp="1605700888016">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1166" height="300" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1605700888016" />
+    <state width="1166" height="300" key="GridCell.Tab.2.center" timestamp="1605700888015">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1166" height="300" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1605700888015" />
+    <state width="1166" height="300" key="GridCell.Tab.2.left" timestamp="1605700888015">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1166" height="300" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1605700888015" />
+    <state width="1166" height="300" key="GridCell.Tab.2.right" timestamp="1605700888016">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1166" height="300" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1605700888016" />
+    <state x="555" y="214" key="Maven.ArtifactSearchDialog" timestamp="1605538582886">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="555" y="214" key="Maven.ArtifactSearchDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1605538582886" />
+    <state x="687" y="393" key="NewModule_or_Project.wizard" timestamp="1605524998215">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="393" key="NewModule_or_Project.wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1605524998215" />
+    <state x="729" y="223" width="1190" height="844" key="SettingsEditor" timestamp="1605629336514">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="729" y="223" width="1190" height="844" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1605629336514" />
+    <state x="894" y="641" key="com.intellij.ide.util.TipDialog" timestamp="1605791303893">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="894" y="641" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1605791303893" />
+    <state x="713" y="311" width="621" height="490" key="find.popup" timestamp="1605521759695">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="713" y="311" width="621" height="490" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1605521759695" />
+    <state x="457" y="394" key="new project wizard" timestamp="1605522020121">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="457" y="394" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1605522020121" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1605792988168">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1605792988168" />
+  </component>
+</project>
